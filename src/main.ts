@@ -19,3 +19,5 @@ app.use(router)
 app.mount('#app')
 
 console.log('JFGenious,test for npx cz')
+console.log('test for git commit instead of npx')
+console.log('111111')
