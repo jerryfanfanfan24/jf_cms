@@ -17,3 +17,5 @@ LoginStore.loadLocalCacheAction() */
 app.use(registerStore)
 app.use(router)
 app.mount('#app')
+
+console.log('JFGenious,test for npx cz')
