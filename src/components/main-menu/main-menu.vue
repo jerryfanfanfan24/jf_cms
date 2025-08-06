@@ -2,7 +2,7 @@
   <div class="main-menu">
     <div class="logo">
       <img class="img" src="../../assets/img/logo.svg" alt="" />
-      <h2 v-show="!isFold" class="title">JF管理系统</h2>
+      <h2 v-show="!isFold" class="title">JK管理系统</h2>
     </div>
     <div class="menu">
       <el-menu
