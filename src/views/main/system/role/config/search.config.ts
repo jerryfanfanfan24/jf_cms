@@ -25,7 +25,6 @@ export default searchConfig */
 
 const searchConfig = {
   pageName: 'role',
-  labelWidth: '200px',
   formItems: [
     {
       type: 'input',

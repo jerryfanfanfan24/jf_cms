@@ -1,6 +1,5 @@
 const searchConfig = {
   pageName: 'department',
-  labelWidth: '200px',
   formItems: [
     {
       type: 'input',
